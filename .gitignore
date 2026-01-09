@@ -50,3 +50,7 @@ coverage.xml
 # System files
 .DS_Store
 Thumbs.db
+
+# Knowledge graph metadata - only commit the bundle
+.knowledge/
+.knowledge
